@@ -76,10 +76,10 @@ Try running one of the following examples to get an idea of what can be done wit
 $ python main.py "./shaders/examples/hoop_loop.vs"
 ```
 
-<img src="https://github.com/gregorio-talevi/shadertoy-port/readme-media/hoop_loop.gif" width="300" height="300" />
+<img src="./readme-media/hoop_loop_small.gif" width="300" height="300" />
 
 ```sh
 $ python main.py "./shaders/examples/turning_glow.vs"
 ```
 
-<img src="https://github.com/gregorio-talevi/shadertoy-port/readme-media/turning_glow.gif" width="300" height="300" />
+<img src="./readme-media/turning_glow_small.gif" width="300" height="300" />
