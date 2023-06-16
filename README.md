@@ -18,6 +18,7 @@ This tool should allow code written in ShaderToy to run on a local machine using
 - [x] Execute `.vs` files
 - [ ] Automate the porting of `.vs` files
 - [ ] Specify window resolution as an argument
+- [ ] Add tests
 - [ ] Extra features (TBD)<br>
 ...
 
